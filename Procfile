@@ -1,1 +1,1 @@
-worker python: CryptoFlipBot.py
+Worker python: CryptoFlipBot.py
